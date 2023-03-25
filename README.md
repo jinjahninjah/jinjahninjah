@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an app that helps you stay on budget
+- 🔭 I’m currently working on an app that uses OCR to sort files into predetermined folders in your machine
 - 🌱 I’m currently learning more calculus
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with anything related to Frontend
